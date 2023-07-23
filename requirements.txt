@@ -5,8 +5,9 @@ accelerate
 openai-whisper
 sentencepiece
 # PIL
-gpt_index>=0.5.23
 soundfile
 openai
 opencv-python
-git+https://github.com/jerryjliu/llama_index
+# -e ./llama_index
+langchain
+# langchain==0.0.153
